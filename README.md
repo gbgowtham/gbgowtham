@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gbgowtham
+- 👋 Hi, I’m gowtham
 - 👀 I’m interested in Writing Blog's in Medium - https://medium.com/@gowthambabu4113
 - 📫 How to reach me - gowthambabu4113@gmail.com
 - ⚡ Fun fact: Cool
