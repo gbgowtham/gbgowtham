@@ -1,21 +1,9 @@
 - 👋 Hi, I’m gowtham
-- 👀 I’m interested in Writing Blog's in Medium - https://medium.com/@gowthambabu4113
-- 📫 How to reach me - gowthambabu4113@gmail.com
+- 📝 I’m interested in Writing Blog's in Medium - https://medium.com/@gowthambabu4113
+- 📫 How to reach me **https://www.linkedin.com/in/gb-gowthambabu/**
+- 💬 Ask me about **Cloud and DevOps**
 - ⚡ Fun fact: Cool
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gbgowtham&label=Profile%20views&color=0e75b6&style=flat" alt="gbgowtham" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gbgowtham" alt="gbgowtham" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 📝 I regularly write articles on [https://medium.com/@gowthambabu4113](https://medium.com/@gowthambabu4113)
-
-- 💬 Ask me about **Cloud and DevOps**
-
-- 📫 How to reach me **https://www.linkedin.com/in/gb-gowthambabu/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
